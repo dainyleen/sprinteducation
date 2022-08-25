@@ -12,13 +12,13 @@ public class Sprint {
     studentList.add(st1);
 
     Student__c st2 = new Student__c();
-    st2.Name = 'John Mayer';
+    st2.Name = 'Mark Rodejo';
     st2.Prior_Qualification__c = 'Tertiary Graduate';
     st2.Enrolment_Progression__c = 'Advanced';
     studentList.add(st2);
 
     Student__c st3 = new Student__c();
-    st3.Name = 'Ferdie Marcos';
+    st3.Name = 'Gimme Groovy';
     st3.Prior_Qualification__c = 'Tertiary Post-Graduate';
     st3.Enrolment_Progression__c = 'Advanced';
     studentList.add(st3);
