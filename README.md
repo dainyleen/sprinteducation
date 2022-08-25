@@ -1,4 +1,4 @@
-# Sprint Education App
+# Sprint Education Platform App
 
 ## Specialist Task - Apex Programming
 
