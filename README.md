@@ -7,7 +7,9 @@
 Write an apex class that updates all records using the following logic:
 
 a. Student's prior qualification is equals to Below Tertiary update enrolment progression to Advanced
+
 b. Student's prior qualification is equals to Tertiary Graduate update enrolment progression to Ultimate
+
 c. Student's prior qualification is equals to Tertiary Post-Graduate update enrolment progression to Extra
 
 ### Task 7 
