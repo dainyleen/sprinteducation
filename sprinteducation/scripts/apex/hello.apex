@@ -1,3 +1,3 @@
 // Sprint.bulkCreateUpdateStudentRecords();
 
-SprintTesting.testingSprintApexClass();
+// SprintTesting.testingSprintApexClass();
